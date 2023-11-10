@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![picture depicting positivty](https://github.com/pontusva/pontusva/blob/main/IMG_0499.jpeg?raw=true)
+<!-- ![picture depicting positivty](https://github.com/pontusva/pontusva/blob/main/IMG_0499.jpeg?raw=true) -->
 
 <!--
 **pontusva/pontusva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
