@@ -10,7 +10,7 @@ I'm a developer who enjoys building smooth user experiences and smart tools — 
 ## 🌐 Find me here
 - 🔗 [GitHub](https://github.com/pontusva)
 - 🌍 [My site](https://pontusva.github.io)
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-ID)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pontus-abrahamsson-14aa80217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
