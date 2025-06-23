@@ -1,4 +1,20 @@
-### Hi there 👋
+# 👋 Hey, I'm Pontus Abrahamsson
+
+I'm a developer who enjoys building smooth user experiences and smart tools — especially for real estate and complex systems. I like keeping things fast, clean, and a little bit clever.
+
+## 🛠️ Tech I work with
+- React · Vite · TypeScript  
+- Node.js · Fastify · GraphQL  
+- Ollama & local LLMs (just for fun... mostly)
+
+## 🌐 Find me here
+- 🔗 [GitHub](https://github.com/pontusva)
+- 🌍 [My site](https://pontusva.github.io)
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR-ID)
+
+---
+
+_Building stuff. Breaking stuff. Learning as I go._
 
 <!-- ![picture depicting positivty](https://github.com/pontusva/pontusva/blob/main/IMG_0499.jpeg?raw=true) -->
 
