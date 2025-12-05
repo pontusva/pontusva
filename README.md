@@ -37,5 +37,3 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=pontusva&color=red" alt="profile views" />
   </a>
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pontusva&theme=dark&hide_border=true)](https://git.io/streak-stats)
