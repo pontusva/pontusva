@@ -38,4 +38,4 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pontusva&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pontusva&theme=dark&hide_border=true)](https://git.io/streak-stats)
