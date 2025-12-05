@@ -37,3 +37,5 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=pontusva&color=red" alt="profile views" />
   </a>
 </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pontusva&show_icons=true&theme=radical)
