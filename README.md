@@ -35,17 +35,32 @@ I care a lot about **clarity, constraints, and trust** — both in UI and backen
 
 ---
 
-## 🚧 Current side project
+---
+
+## 🕳️ Experiments
+
+I sometimes publish small, privacy-first system experiments outside of my normal repos.
+
+One of them lives here:
+
+**https://deadletter.cc**
+
+It explores how hardware devices, trust anchors and offline verification can be used to exchange messages without centralized identity or user accounts.
+
+No tracking, no analytics — just systems design.
+
+## 🧪 Recent experiment (archived)
 
 **llmd** — a compiler-style intent engine that turns natural language into **safe, schema-validated queries**.
 
-Instead of letting an LLM “guess SQL”, llmd:
-- parses intent into a structured AST
-- applies ownership & scope rules derived from the data model
-- compiles into GraphQL only if the intent is valid
-- cleanly separates *reasoning* from *execution*
+It explored what happens when you treat language like source code:
 
-It’s an experiment in making AI systems **predictable, auditable, and boring (in a good way)**.
+- parse intent into a strict AST  
+- apply ownership & scope rules derived from the data model  
+- compile into GraphQL only if the intent is valid  
+- separate *reasoning* from *execution* completely
+
+The project is currently paused, but it heavily influenced how I think about building **predictable, auditable AI systems**.
 
 ---
 
