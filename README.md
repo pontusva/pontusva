@@ -1,39 +1,37 @@
-# 👋 Hey, I’m Pontus Abrahamsson
+## 👋 Hey, I’m Pontus Abrahamsson
 
-I’m a developer who enjoys building **calm user experiences** and **robust systems** — especially in domains where data models are complex and correctness actually matters (like real estate, planning, and infrastructure).
+I build **calm user experiences** and **robust systems** — especially in domains where data models are messy and correctness actually matters, like real estate, planning, and infrastructure.
 
-Lately I’ve been spending a lot of time thinking about **how natural language can safely interact with real data**, without shortcuts or magic strings.
+Lately I’ve been focused on how **natural language can interact with real data safely**, without shortcuts, magic strings, or hidden assumptions.
 
 ---
 
 ## 🧠 What I’m interested in
 
 - Intent-based systems (NL → validated actions)
-- Compiler-style architectures for AI tools
-- Schema-driven design (single source of truth)
+- Compiler-style architectures for AI tooling
+- Schema-driven design as a single source of truth
 - Making complex domains feel understandable to humans
 
-I care a lot about **clarity, constraints, and trust** — both in UI and backend systems.
+I care deeply about **clarity, constraints, and trust** — both in UI and backend systems.
 
 ---
 
 ## 🛠️ Tech I work with
 
-**Frontend**
-- React · Vite · TypeScript
-- Animation, UX polish, performance
+### Frontend
+- React · Vite · TypeScript  
+- Animation, UX polish, performance tuning
 
-**Backend**
-- Node.js · Fastify · GraphQL
-- Prisma · PostgreSQL
+### Backend
+- Node.js · Fastify · GraphQL  
+- Prisma · PostgreSQL  
 - Schema & API design
 
-**AI / Systems (exploring)**
-- Local LLMs (Ollama)
-- Intent compilation & validation
+### AI / Systems (exploring)
+- Local LLMs (Ollama)  
+- Intent compilation & validation  
 - Rust for tooling and infrastructure
-
----
 
 ---
 
