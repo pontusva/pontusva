@@ -65,7 +65,7 @@ The project is currently paused, but it heavily influenced how I think about bui
 ## 🌐 Find me here
 
 - 🔗 [GitHub](https://github.com/pontusva)
-- 🌍 [My site](https://pontusva.github.io)
+- 🌍 [ifitfeelsyou]([https://pontusva.github.io](https://ifitfeels.you/))
 - 💼 [LinkedIn](https://www.linkedin.com/in/pontus-abrahamsson-14aa80217)
 
 ---
