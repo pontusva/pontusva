@@ -1,79 +1,65 @@
-## 👋 Hey, I’m Pontus Abrahamsson
+# hello internet 👋
 
-I build **calm user experiences** and **robust systems** — especially in domains where data models are messy and correctness actually matters, like real estate, planning, and infrastructure.
+I'm Pontus. I write software and occasionally make my life significantly
+more complicated because I thought "wait, wouldn't it be cool if..."
 
-Lately I’ve been focused on how **natural language can interact with real data safely**, without shortcuts, magic strings, or hidden assumptions.
+I'm a full-stack developer, mostly working with TypeScript, React, GraphQL,
+Postgres and whatever else the problem requires.
 
----
+I like building things that work offline, systems that don't blindly trust
+their inputs, and side projects that probably didn't need to exist.
 
-## 🧠 What I’m interested in
+## currently messing with
 
-- Intent-based systems (NL → validated actions)
-- Compiler-style architectures for AI tooling
-- Schema-driven design as a single source of truth
-- Making complex domains feel understandable to humans
+- 📡 offline-first apps & PWAs
+- 🦀 learning enough Rust to become dangerous
+- 🤖 local LLMs and figuring out where AI is actually useful
+- 🔐 privacy, encryption and weird little distributed systems
+- 🐧 Linux servers I definitely didn't break five minutes ago
+- 🕸️ GraphQL. So much GraphQL.
 
-I care deeply about **clarity, constraints, and trust** — both in UI and backend systems.
+## some things I've built
 
----
+### 💀 [deadletter.cc](https://deadletter.cc)
 
-## 🛠️ Tech I work with
+An experiment in sending encrypted messages without accounts or centralized
+identity.
 
-### Frontend
-- React · Vite · TypeScript  
-- Animation, UX polish, performance tuning
+It involves hardware devices, cryptography, Tor and trust anchors.
 
-### Backend
-- Node.js · Fastify · GraphQL  
-- Prisma · PostgreSQL  
-- Schema & API design
+This started with a perfectly reasonable idea and then got slightly out of hand.
 
-### AI / Systems (exploring)
-- Local LLMs (Ollama)  
-- Intent compilation & validation  
-- Rust for tooling and infrastructure
+### 🧪 llmd
 
----
+I wondered:
 
-## 🕳️ Experiments
+> what if we stopped letting LLMs YOLO queries directly into things?
 
-I sometimes publish small, privacy-first system experiments outside of my normal repos.
+So I built an experiment that treats natural language a little more like
+source code:
 
-One of them lives here:
+`words → intent → AST → validation → GraphQL`
 
-**https://deadletter.cc**
+The LLM can suggest what you meant. The boring deterministic code gets the
+final say.
 
-It explores how hardware devices, trust anchors and offline verification can be used to exchange messages without centralized identity or user accounts.
+Currently archived, but I learned a ridiculous amount building it.
 
-No tracking, no analytics — just systems design.
+## tools I reach for
 
-## 🧪 Recent experiment (archived)
+`TypeScript` · `React` · `Node.js` · `GraphQL` · `PostgreSQL` · `Docker`
 
-**llmd** — a compiler-style intent engine that turns natural language into **safe, schema-validated queries**.
+and increasingly:
 
-It explored what happens when you treat language like source code:
+`Rust` · `Go` · `Linux` · `Ollama`
 
-- parse intent into a strict AST  
-- apply ownership & scope rules derived from the data model  
-- compile into GraphQL only if the intent is valid  
-- separate *reasoning* from *execution* completely
+I am professionally committed to adding another service to docker-compose.
 
-The project is currently paused, but it heavily influenced how I think about building **predictable, auditable AI systems**.
+## elsewhere on the internet
 
----
-
-## 🌐 Find me here
-
-- 🔗 [GitHub](https://github.com/pontusva)
 - 🌍 [ifitfeelsyou](https://ifitfeels.you/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pontus-abrahamsson-14aa80217)
 
 ---
 
-_Building things carefully. Breaking them thoughtfully. Learning constantly._
-
-<p align="left">
-  <a href="https://github.com/pontusva/pontusva">
-    <img src="https://komarev.com/ghpvc/?username=pontusva&color=red" alt="profile views" />
-  </a>
-</p>
+*works on my machine* is not a deployment strategy but it is a lifestyle
